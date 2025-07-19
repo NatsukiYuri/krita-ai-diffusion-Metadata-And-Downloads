@@ -36,11 +36,11 @@ It adds useful features to display metadata from generated images and automatica
 ### 1. Prepare Krita AI Diffusion
 
 - Download and install Krita AI Diffusion version `1.36.1` on a clean setup.
-- [Official Krita AI Diffusion GitHub Project](https://github.com/BetaPictoris/krita-ai-diffusion)
+- [Official Krita AI Diffusion GitHub Project](https://github.com/Acly/krita-ai-diffusion/releases/tag/v1.36.0)
 
 ### 2. Download the Extension
 
-- Get the latest version of this extension from the [Releases](#) tab of this GitHub repository.
+- Get the latest version of this extension from the [Releases](https://github.com/NatsukiYuri/krita-ai-diffusion-Metadata-And-Downloads/releases/tag/0.1) tab of this GitHub repository.
 
 ### 3. Add the Files
 
